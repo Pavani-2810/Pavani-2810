@@ -1,0 +1,12 @@
+.login-btn{
+    background-color:blue;
+    color:white;
+    border-radius:10px;
+    border:none;
+}
+.register-btn{
+    background-color:green;
+    color:white;
+    border-radius:10px;
+    border-color:yellow;
+}
