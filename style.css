@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header{
     padding : 10px;
     display :flex;
@@ -32,3 +33,19 @@
 
 
 
+=======
+.header{
+            background-color:yellow;
+            color:white;
+        }
+        .footer{
+            background-color:blue;
+            color:white;
+        }
+        .container{
+            margin:10px;
+        }
+
+
+
+>>>>>>> eeaa688471d9c9e3c5360168d50033e58fec904e
